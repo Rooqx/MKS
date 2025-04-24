@@ -83,7 +83,7 @@ function App() {
   return (
     <>
       <Router>
-        <header className="flex justify-between items-center fixed w-full p-1 z-20 bg-[#F5EBDD] text-[#4A4A4A] rounded-b-[50px]">
+        <header className="flex justify-between items-center fixed w-full p-1 z-[100] bg-[#F5EBDD] text-[#4A4A4A] rounded-b-[50px]">
           <nav className="w-full flex flex-wrap gap-3 justify-between items-center py-3 px-4 md:py-4 md:px-6">
             <span
               className="bg-[#59d3fc] py-0.5 px-1 rounded-md"
